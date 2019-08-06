@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/watakandhi/package_template.svg?branch=master)](https://travis-ci.com/watakandhi/package_template)
+
 # [PACKAGE NAME]
 
 # Installation
